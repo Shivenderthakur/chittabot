@@ -35,6 +35,7 @@ jsonschema-specifications==2024.10.1
 langchain-core==0.3.43
 langchain-nvidia-ai-endpoints==0.3.9
 langsmith==0.3.13
+pyaudio
 MarkupSafe==3.0.2
 multidict==6.1.0
 narwhals==1.29.1
